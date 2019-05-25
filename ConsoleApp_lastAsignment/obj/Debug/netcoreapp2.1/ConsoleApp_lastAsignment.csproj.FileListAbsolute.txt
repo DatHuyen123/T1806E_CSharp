@@ -1,0 +1,11 @@
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\bin\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.deps.json
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\bin\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.runtimeconfig.json
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\bin\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.runtimeconfig.dev.json
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\bin\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.dll
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\bin\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.pdb
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\obj\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.csprojAssemblyReference.cache
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\obj\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.csproj.CoreCompileInputs.cache
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\obj\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.AssemblyInfoInputs.cache
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\obj\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.AssemblyInfo.cs
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\obj\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.dll
+F:\C#_in_aptech\git_C#_in_aptech\ConsoleApp_lastAsignment\ConsoleApp_lastAsignment\obj\Debug\netcoreapp2.1\ConsoleApp_lastAsignment.pdb
